@@ -430,8 +430,8 @@ def batch_report(targets_file):
 
 # ---------- LOGIN SYSTEM ----------
 def login():
-    username = "vortex"
-    password = "vortex killer"
+    username = "Alpha"
+    password = "12345"
     attempts = 0
     
     while attempts < 3:
